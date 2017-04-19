@@ -1,0 +1,32 @@
+<svg height="462" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="462" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ multilevel@7.3.0 </tspan>
+<tspan x="10" y="90">  ├── duplexer@0.1.1 </tspan>
+<tspan x="10" y="106">  ├─┬ level-manifest@1.2.0 </tspan>
+<tspan x="10" y="122">  │ └── deep-extend@0.2.11 </tspan>
+<tspan x="10" y="138">  ├─┬ mux-demux@3.7.9 </tspan>
+<tspan x="10" y="154">  │ ├── duplex@1.0.0 </tspan>
+<tspan x="10" y="170">  │ ├── json-buffer@2.0.11 </tspan>
+<tspan x="10" y="186">  │ ├─┬ msgpack-stream@0.0.12 </tspan>
+<tspan x="10" y="202">  │ │ ├─┬ bops@0.0.6 </tspan>
+<tspan x="10" y="218">  │ │ │ ├── base64-js@0.0.2 </tspan>
+<tspan x="10" y="234">  │ │ │ └── to-utf8@0.0.1 </tspan>
+<tspan x="10" y="250">  │ │ ├── msgpack-js@0.3.0 </tspan>
+<tspan x="10" y="266">  │ │ └── through@2.3.4 </tspan>
+<tspan x="10" y="282">  │ ├─┬ stream-combiner@0.0.2 </tspan>
+<tspan x="10" y="298">  │ │ └── duplexer@0.0.4 </tspan>
+<tspan x="10" y="314">  │ ├── stream-serializer@1.1.2 </tspan>
+<tspan x="10" y="330">  │ ├── through@2.3.8 </tspan>
+<tspan x="10" y="346">  │ └── xtend@1.0.3 </tspan>
+<tspan x="10" y="362">  ├─┬ rpc-stream@2.1.2 </tspan>
+<tspan x="10" y="378">  │ └── stream-serializer@1.0.0 </tspan>
+<tspan x="10" y="394">  ├── stream-combiner@0.2.2 </tspan>
+<tspan x="10" y="410">  └─┬ tmp-stream@0.3.2 </tspan>
+<tspan x="10" y="426">    └─┬ throughout@0.0.0 </tspan>
+<tspan x="10" y="442">      └── duplexer@0.0.4</tspan>
+</text>
+</svg>
