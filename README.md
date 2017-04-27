@@ -1,6 +1,6 @@
 # npmtest-multilevel
 
-#### test coverage for  [multilevel (v7.3.0)](https://github.com/juliangruber/multilevel#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-multilevel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multilevel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multilevel.svg)](https://travis-ci.org/npmtest/node-npmtest-multilevel)
+#### basic test coverage for  [multilevel (v7.3.0)](https://github.com/juliangruber/multilevel#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-multilevel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-multilevel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-multilevel.svg)](https://travis-ci.org/npmtest/node-npmtest-multilevel)
 
 #### Expose a leveldb over the network.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-multilevel/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-multilevel/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-multilevel/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-multilevel/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-multilevel/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-multilevel/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-multilevel/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-multilevel/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-multilevel/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-multilevel/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-multilevel/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-multilevel/build/coverage.html/index.html)
 
@@ -110,7 +110,8 @@
             "android-browser/4.2..latest"
         ]
     },
-    "version": "7.3.0"
+    "version": "7.3.0",
+    "bin": {}
 }
 ```
 
